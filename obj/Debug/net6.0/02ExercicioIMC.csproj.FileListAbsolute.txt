@@ -1,0 +1,15 @@
+C:\AprendendoC#\POO\02ExercicioIMC\obj\Debug\net6.0\02ExercicioIMC.csproj.AssemblyReference.cache
+C:\AprendendoC#\POO\02ExercicioIMC\obj\Debug\net6.0\02ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendendoC#\POO\02ExercicioIMC\obj\Debug\net6.0\02ExercicioIMC.AssemblyInfoInputs.cache
+C:\AprendendoC#\POO\02ExercicioIMC\obj\Debug\net6.0\02ExercicioIMC.AssemblyInfo.cs
+C:\AprendendoC#\POO\02ExercicioIMC\obj\Debug\net6.0\02ExercicioIMC.csproj.CoreCompileInputs.cache
+C:\AprendendoC#\POO\02ExercicioIMC\bin\Debug\net6.0\02ExercicioIMC.exe
+C:\AprendendoC#\POO\02ExercicioIMC\bin\Debug\net6.0\02ExercicioIMC.deps.json
+C:\AprendendoC#\POO\02ExercicioIMC\bin\Debug\net6.0\02ExercicioIMC.runtimeconfig.json
+C:\AprendendoC#\POO\02ExercicioIMC\bin\Debug\net6.0\02ExercicioIMC.dll
+C:\AprendendoC#\POO\02ExercicioIMC\bin\Debug\net6.0\02ExercicioIMC.pdb
+C:\AprendendoC#\POO\02ExercicioIMC\obj\Debug\net6.0\02ExercicioIMC.dll
+C:\AprendendoC#\POO\02ExercicioIMC\obj\Debug\net6.0\refint\02ExercicioIMC.dll
+C:\AprendendoC#\POO\02ExercicioIMC\obj\Debug\net6.0\02ExercicioIMC.pdb
+C:\AprendendoC#\POO\02ExercicioIMC\obj\Debug\net6.0\02ExercicioIMC.genruntimeconfig.cache
+C:\AprendendoC#\POO\02ExercicioIMC\obj\Debug\net6.0\ref\02ExercicioIMC.dll
